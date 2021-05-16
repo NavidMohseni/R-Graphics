@@ -1,2 +1,2 @@
-# R-Graphics-Cookbook
+# R-Graphics
 Training.
